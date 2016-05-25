@@ -20,7 +20,7 @@ Is the current stable release. The latest and greatest changes are available fro
 
 # Version 5
 
-IMPORANT! The Nuget packages will be depreciated in this release. Moving forward, Asp.Net/Nuget will **NOT** be delivering content packages like this one and you will need to use bower. See [this issue for more]( https://github.com/Eonasdan/bootstrap-datetimepicker/issues/1128)
+IMPORTANT! The Nuget packages will be deprecated in this release. Moving forward, Asp.Net/Nuget will **NOT** be delivering content packages like this one and you will need to use bower. See [this issue for more]( https://github.com/Eonasdan/bootstrap-datetimepicker/issues/1128)
 
 v5 is [in planning](https://github.com/Eonasdan/bootstrap-datetimepicker/issues/841). We welcome your suggestions.
 
@@ -29,7 +29,7 @@ A major update is a great time to make be able to make breaking changes.
 ## Submitting Issues
 If you have issues, please check the following first:
 * Have you read the docs? 
-* Do you have the latest version of momentjs?
+* Do you have the latest version of moment.js?
 * Do you have the latest version of jQuery?
 * Please test and/or fork [this jsfiddle](http://jsfiddle.net/Eonasdan/0Ltv25o8/) with an example of your issue before you post an issue here. 
 * Please indicate which version of the picker you are using (this can be found at the top of any included file)
